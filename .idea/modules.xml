@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bean-scopes-demo/bean-scopes-demo.iml" filepath="$PROJECT_DIR$/bean-scopes-demo/bean-scopes-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-demo/spring-batch-demo.iml" filepath="$PROJECT_DIR$/spring-batch-demo/spring-batch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jpa-demo/spring-data-jpa-demo.iml" filepath="$PROJECT_DIR$/spring-data-jpa-demo/spring-data-jpa-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" filepath="$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-demo1/spring-security-demo1.iml" filepath="$PROJECT_DIR$/spring-security-demo1/spring-security-demo1.iml" />
+    </modules>
+  </component>
+</project>

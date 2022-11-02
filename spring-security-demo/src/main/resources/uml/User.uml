@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>org.springframework.security.core.userdetails.User</OriginalElement>
+  <nodes>
+    <node x="144.5" y="81.0">org.springframework.security.core.CredentialsContainer</node>
+    <node x="0.5" y="81.0">org.springframework.security.core.userdetails.UserDetails</node>
+    <node x="109.25" y="162.0">org.springframework.security.core.userdetails.User</node>
+    <node x="0.0" y="0.0">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.springframework.security.core.userdetails.User" target="org.springframework.security.core.CredentialsContainer" relationship="REALIZATION">
+      <point x="20.5" y="-15.5" />
+      <point x="170.75" y="137.0" />
+      <point x="238.0" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.springframework.security.core.userdetails.User" target="org.springframework.security.core.userdetails.UserDetails" relationship="REALIZATION">
+      <point x="-20.5" y="-15.5" />
+      <point x="129.75" y="137.0" />
+      <point x="62.5" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.springframework.security.core.userdetails.UserDetails" target="java.io.Serializable" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="166.0" y="96.5" />
+  <SelectedNodes>
+    <node>org.springframework.security.core.CredentialsContainer</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
